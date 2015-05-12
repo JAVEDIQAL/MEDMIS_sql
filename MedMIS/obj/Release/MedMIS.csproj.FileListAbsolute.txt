@@ -1,0 +1,16 @@
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\bin\Release\MedMIS.exe.config
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\bin\Release\MedMIS.exe
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\bin\Release\MedMIS.pdb
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Release\MedMIS.Add_Medicine.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Release\MedMIS.Add_Party.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Release\MedMIS.Form1.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Release\MedMIS.Login.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Release\MedMIS.MedMenu.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Release\MedMIS.Properties.Resources.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Release\MedMIS.ReportForm.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Release\MedMIS.Search.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Release\MedMIS.SellReportForm.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Release\MedMIS.csproj.GenerateResource.Cache
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Release\MedMIS.exe
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Release\MedMIS.pdb
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Release\MedMIS.csprojResolveAssemblyReference.cache
